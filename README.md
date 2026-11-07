@@ -44,6 +44,8 @@ MBA Finance and B.Com (Computer Applications) graduate from Andhra Pradesh, Indi
 
 ## Contact
 
+- **Portfolio website:** [syedalthamas.me](https://syedalthamas.me)
+
 - [LinkedIn](https://www.linkedin.com/in/syed-althamas/)
 - [Portfolio repository](https://github.com/althamas-syed/syed-althamas-portfolio)
 - **Email:** althamassyed@gmail.com
