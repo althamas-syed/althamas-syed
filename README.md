@@ -1,94 +1,51 @@
-# 💫 About Me
+# Syed Althamas | Data Analyst • MIS & Finance Reporting
 
-🚩 **Currently working on:**
-📊 Building end-to-end **Data Analytics and AI-powered projects** using SQL, Excel, Power BI, Tableau, Python, Microsoft Fabric, and Generative AI.
+MBA Finance and B.Com (Computer Applications) graduate from Andhra Pradesh, India. I work with **SQL Server, Python, Power BI, and Advanced Excel** to clean data, reconcile business KPIs, and explain financial and customer trends. I have practical exposure through two short remote Data Analyst internships.
 
-🧩 **Looking to collaborate on:**
-🤝 Data Analytics, Business Intelligence, AI-powered analytics, automation, and real-world data projects.
+**Open to:** Entry-level Data Analyst, MIS Analyst, Reporting Analyst, Financial Data Analyst and Finance Reporting roles. **Locations:** Hyderabad, Bengaluru, Chennai and Remote. **Availability:** Within 15 days.
 
-💡 **Looking for help with:**
-🚀 Advanced SQL, Python automation, AI Agents, Generative AI, Microsoft Fabric, and solving real-world business problems using data and AI.
+## Featured analytics projects
 
-📚 **Currently learning:**
-🧠 Advanced SQL, Python, Generative AI, AI Agents, Machine Learning fundamentals, Data Engineering, and Microsoft Fabric.
+### 1. [Retail Chain Profitability & Refund Analysis](https://github.com/althamas-syed/retail-profit-leakage-demand-optimization)
+- Analyzed **180K+ retail records across seven source datasets and 50 stores**.
+- Reconciled **16 of 16 business KPIs** independently between Python and SQL.
+- Completed **20 business SQL analyses** and prepared review outputs for below-cost products, approved matched refunds, stockouts and vendor delays.
+- Refund exposure is for review; not automatically fraud, cash recovered or proven profit leakage.
 
-💬 **Ask me about:**
-📈 Data Analytics, SQL, Excel, Power BI, Tableau, Python, dashboards, data cleaning, data visualization, and business insights.
+**Tools:** Python/Pandas, SQL Server, Power BI, Excel.
 
-⚡ **Fun fact:**
-🔍 I enjoy transforming messy data into meaningful insights—and exploring how AI can automate analytics and solve real-world business problems.
+### 2. [Customer Behaviour Analysis](https://github.com/althamas-syed/customer-behaviour-analysis)
+- Cleaned **5,050 source rows to 5,000 customer records**.
+- Investigated **30 shopping items**, customer segments, product performance and shopping patterns.
+- Completed **12 SQL analyses** and built a **two-page Power BI report**.
+- Reported **$994.18K cleaned/imputed purchase value** and **$198.84 average spend**; the total includes missing-value estimates.
 
----
+**Tools:** Python/Pandas, SQL Server, Power BI.
 
-# 🌐 Connect With Me
+### 3. [RetailNova Performance & Behavioral Analytics](https://github.com/althamas-syed/retailnova-performance-behavioral-analytics)
+- Cleaned five related retail datasets and validated **2,993 orders**.
+- Reconciled approximately **$816,994 in sales** and **$243,574 in gross contribution** (**29.81% gross margin before operating costs**).
+- Documented key/date/store-mapping anomalies; prepared SQL analyses and a five-page Power BI reporting design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syedalthamas/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/syed.althamas)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:althamassyed@gmail.com)
+**Tools:** Python/Pandas, SQL Server, Power BI design.
 
----
+## Practical skills
 
-# 💻 Tech Stack
+- **SQL & data:** SQL Server, MySQL, T-SQL, joins, CTEs, window functions, data quality, KPI reconciliation
+- **Analytics:** Python, Pandas, NumPy, Jupyter Notebook, VS Code, EDA
+- **BI & reporting:** Power BI, DAX, Power Query, Excel PivotTables, XLOOKUP, SUMIFS, MIS reporting
+- **Financial analysis:** Revenue and gross-margin analysis, refunds and exception review, vendor SLA checks
+- **AI tool familiarity:** ChatGPT, Claude, Gemini, Lovable for supported drafting and workflows; n8n and Make.com familiarity. No claim of deployed autonomous agents.
 
-### 📊 Data Analytics & Business Intelligence
+## Education
+- **MBA Finance** — Santhiram Engineering College (2025)
+- **B.Com, Computer Applications** — Rayalaseema University (2023)
+- **Data Analytics with Generative AI** — Professional training (Excellent Grade)
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+## Contact
 
-### 🗄️ Databases & SQL
+- [LinkedIn](https://www.linkedin.com/in/syed-althamas/)
+- [Portfolio repository](https://github.com/althamas-syed/syed-althamas-portfolio)
+- **Email:** althamassyed@gmail.com
 
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🐍 Python & Data Science
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
-
-### 🤖 AI & Generative AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
-
-**Currently exploring:** Generative AI • AI Agents • AI-powered Analytics • Prompt Engineering • Automation • Machine Learning Fundamentals
-
-### 🛠️ Development & Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-# 🚀 Featured Focus Areas
-
-📊 **Data Analytics** — Turning raw data into actionable business insights
-📈 **Business Intelligence** — Building interactive dashboards and KPI reports
-🗄️ **SQL & Data Analysis** — Querying, transforming, and analyzing data
-🐍 **Python Analytics** — Data cleaning, analysis, and automation
-☁️ **Microsoft Fabric** — Data pipelines, Lakehouse, Data Warehouse, and Power BI
-🤖 **AI-Powered Analytics** — Exploring Generative AI and AI Agents for analytics automation
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=althamas-syed\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=althamas-syed\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=althamas-syed\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
----
-
-# 📌 Current Goal
-
-🎯 Building a strong portfolio of **real-world Data Analytics, Business Intelligence, Microsoft Fabric, and AI-powered automation projects** while continuously improving my SQL, Python, and AI skills.
-
----
-
-[![](https://visitcount.itsvg.in/api?id=althamas-syed\&icon=0\&color=0)](https://visitcount.itsvg.in)
+*These projects demonstrate portfolio/training work. Results, definitions and remaining reporting limitations are documented to support reproducible interview discussion.*
